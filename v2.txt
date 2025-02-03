@@ -1,2 +1,3 @@
 v2
 string for v2
+str v2 ahaha
